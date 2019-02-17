@@ -794,7 +794,7 @@
     "_type": "visualization",
     "_source": {
       "title": "ElastiFlow: Logo",
-      "visState": "{\"title\":\"ElastiFlow: Logo\",\"type\":\"markdown\",\"params\":{\"type\":\"markdown\",\"markdown\":\"![BAZILLASOFT](https://raw.githubusercontent.com/Bazillasoft/images/master/logo-long.JPG "Bazillasoft")\"},\"aggs\":[],\"listeners\":{}}",
+      "visState": "{\"title\":\"ElastiFlow: Logo\",\"type\":\"markdown\",\"params\":{\"type\":\"markdown\",\"markdown\":\"![BAZILLASOFT](https://raw.githubusercontent.com/Bazillasoft/images/master/logo-long.JPG)\"},\"aggs\":[],\"listeners\":{}}",
       "uiStateJSON": "{}",
       "description": "",
       "version": 1,
